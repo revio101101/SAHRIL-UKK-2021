@@ -26,15 +26,15 @@ Beranda Web
 Isi dan Fitur WEB :
 
 * Jika Login sebagai Admin
-  - Tanggapan Laporan Masyarakat
-  - Proses Laporan Masyarakat
-  - Kelola Akun petugas
-  - Lihat dan Cetak Laporan
+   - Tanggapan Laporan Masyarakat
+   - Proses Laporan Masyarakat
+   - Kelola Akun petugas
+   - Lihat dan Cetak Laporan
  * Jika Login sebagai Petugas
-  - Tanggapan Laporan Masyarakat
-  - Proses Laporan Masyarakat
-  - Lihat dan Cetak Laporan
+   - Tanggapan Laporan Masyarakat
+   - Proses Laporan Masyarakat
+   - Lihat dan Cetak Laporan
  * Jika laporan sebagai Masyarakat
-  - Ajukan Pengaduan
-  - Riwayat Pengaduan
+   - Ajukan Pengaduan
+   - Riwayat Pengaduan
 
