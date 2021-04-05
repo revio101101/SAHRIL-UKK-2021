@@ -10,6 +10,7 @@ Instalasi WEB pada XAMPP PHP MY SQL
 6. Buka server PHPMyAdmin
 7. Buat Database
 8. Ekspor database kalian "pengaduan.sql" dan kirim/go
+9. panggil source code kalian pada tab baru, contoh "localhost/folderkalian"
 
 Beranda Web
 
