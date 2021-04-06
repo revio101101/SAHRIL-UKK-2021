@@ -39,3 +39,5 @@ Isi dan Fitur WEB :
    - Ajukan Pengaduan
    - Riwayat Pengaduan
 
+* Logout
+
